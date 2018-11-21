@@ -3,7 +3,7 @@ Congratulations on completing all the lessons in this course! As the final part 
 
 ## The Dataset
 The data set contains images of flowers from 102 different species. We've provided a training set and a validation set. You can [download the images from here](https://s3.amazonaws.com/content.udacity-data.com/courses/nd188/flower_data.zip) as a zipped archive. Just uncompress it and you should be good to go.
-
+![TITLE]('assets/Flowers.png')
 
 Project Notebook
 We've built a Jupyter Notebook to guide you through developing and training your model. You can get it by cloning [this repo](https://github.com/udacity/pytorch_challenge) on GitHub:
